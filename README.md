@@ -12,6 +12,7 @@
 | 5 | 2_2 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_2/2_2.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_2/2_2.png |
 | 6 | 2_3 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_3/2_3.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_3/2_3.png |
 | 7 | 2_4 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_4/2_4.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_4/2_4.png |
+| 8 | 2_5 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_5/2_5.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_5/2_5.png |
 
 ## 2 семестр
 
