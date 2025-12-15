@@ -27,6 +27,12 @@
 | 20 | 2_15 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_15/2_15.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_15/2_15.png |
 | 21 | 2_16 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_16/2_16.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_16/2_16.png |
 | 22 | 2_17 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_17/2_17.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_17/2_17.png |
+| 23 | 2_18 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_18/2_18.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_18/2_18.png |
+| 24 | 2_19 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_19/2_19.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_19/2_19.png |
+| 25 | 2_20 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_20/2_20.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_20/2_20.png |
+| 26 | 2_21 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_21/2_21.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_21/2_21.png |
+| 27 | 2_22 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_22/2_22.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_22/2_22.png |
+| 28 | 2_23 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_23/2_23.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/2_23/2_23.png |
 
 ## 2 семестр
 
