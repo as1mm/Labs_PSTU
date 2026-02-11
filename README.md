@@ -46,4 +46,6 @@
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
-|     |     |     |     |     |
+| 1 | 3_1 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_1/3_1.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_1/3_1.png |
+| 2 | 3_2 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_2/3_2.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_2/3_2.png |
+| 3 | 3_3 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_3/3_3.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_3/3_3.png |
