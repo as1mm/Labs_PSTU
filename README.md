@@ -53,3 +53,9 @@
 | 5 | 3_5 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_5/3_5.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_5/3_5.png |
 | 6 | 3_6 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_6/3_6.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_6/3_6.png |
 | 7 | 3_7 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_7/3_7.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_7/3_7.png |
+| 8 | 3_8 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_8/3_8.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_8/3_8.png |
+| 9 | 3_9 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_9/3_9.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_9/3_9.png |
+| 10 | 3_10_1 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_10/3_10_1.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_10/3_10_1.png |
+| 11 | 3_11 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_11/3_11.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_11/3_11.png |
+| 12 | 3_12 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_12/3_12.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_12/3_12.png |
+| 13 | 3_13 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_13/3_13.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_13/3_13.png |
