@@ -37,10 +37,10 @@
 | 30 | ptr_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/ptr_2/ptr_2.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/ptr_2/ptr_2.png) |
 | 31 | ptr_3 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/ptr_3/ptr_3.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/ptr_3/ptr_3.png) |
 | 32 | ptr_4 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/ptr_4/ptr_4.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/ptr_4/ptr_4.png) |
-| 33 | ptr_5 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/ptr_5/ptr_5.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/ptr_5/ptr_5.png |
-| 34 | eq_half | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_half.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_half.png |
-| 35 | eq_Newton | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_Newton.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_Newton.png |
-| 36 | eq_Iter | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_Iter.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_Iter.png |
+| 33 | ptr_5 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/ptr_5/ptr_5.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/ptr_5/ptr_5.png) |
+| 34 | eq_half | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_half.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_half.png) |
+| 35 | eq_Newton | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_Newton.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_Newton.png) |
+| 36 | eq_Iter | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_Iter.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/eq/eq_Iter.png) |
 
 ## 2 семестр
 
