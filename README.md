@@ -46,21 +46,21 @@
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
 | --- | --- | --- | --- | --- |
-| 1 | 3_1 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_1/3_1.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_1/3_1.png |
-| 2 | 3_2 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_2/3_2.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_2/3_2.png |
-| 3 | 3_3 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_3/3_3.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_3/3_3.png |
-| 4 | 3_4 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_4/3_4.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_4/3_4.png |
-| 5 | 3_5 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_5/3_5.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_5/3_5.png |
-| 6 | 3_6 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_6/3_6.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_6/3_6.png |
-| 7 | 3_7 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_7/3_7.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_7/3_7.png |
-| 8 | 3_8 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_8/3_8.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_8/3_8.png |
-| 9 | 3_9 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_9/3_9.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_9/3_9.png |
-| 10 | 3_10_1 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_10/3_10_1.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_10/3_10_1.png |
-| 11 | 3_11 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_11/3_11.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_11/3_11.png |
-| 12 | 3_12 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_12/3_12.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_12/3_12.png |
-| 13 | 3_13 | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_13/3_13.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_13/3_13.png |
-| 14 | bubble_sort | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/bubblesort.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/bubblesort.png |
-| 15 | insert_sort | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/ins_sort.cpp | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/ins_sort.png |
-| 16 | selection_sort | 🟢 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/selection_sort.cpp | [Блок-схемы пока нет(](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/selection_sort.png) |
-| 17 | laba_4 | 🟡 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_4/laba_4.cpp | Блок-схемы пока нет( |
-| 18 | laba_5 | 🟡 | https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_5/laba_5.cpp | Блок-схемы пока нет( |
+| 1 | 3_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_1/3_1.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_1/3_1.png) |
+| 2 | 3_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_2/3_2.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_2/3_2.png) |
+| 3 | 3_3 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_3/3_3.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_3/3_3.png) |
+| 4 | 3_4 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_4/3_4.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_4/3_4.png) |
+| 5 | 3_5 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_5/3_5.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_5/3_5.png) |
+| 6 | 3_6 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_6/3_6.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_6/3_6.png) |
+| 7 | 3_7 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_7/3_7.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_7/3_7.png) |
+| 8 | 3_8 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_8/3_8.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_8/3_8.png) |
+| 9 | 3_9 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_9/3_9.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_9/3_9.png) |
+| 10 | 3_10_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_10/3_10_1.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_10/3_10_1.png) |
+| 11 | 3_11 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_11/3_11.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_11/3_11.png) |
+| 12 | 3_12 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_12/3_12.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_12/3_12.png) |
+| 13 | 3_13 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_13/3_13.cpp) | [Блок_схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_13/3_13.png) |
+| 14 | bubble_sort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/bubblesort.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/bubblesort.png) |
+| 15 | insert_sort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/ins_sort.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/ins_sort.png) |
+| 16 | selection_sort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/selection_sort.cpp) | [Блок-схемы ](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/selection_sort.png) |
+| 17 | laba_4 | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_4/laba_4.cpp) | Блок-схемы пока нет( |
+| 18 | laba_5 | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_5/laba_5.cpp) | Блок-схемы пока нет( |
