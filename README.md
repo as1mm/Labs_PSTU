@@ -67,5 +67,5 @@
 | 19 | laba_6 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_6/laba_6.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_6/laba_6.png) |
 | 20 | laba_7_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_1.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_1.png) |
 | 21 | laba_7_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_2.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_2.png) |
-| 22 | laba_8 | 🔴 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_8/laba_8.cpp) | Блок-схемы пока нет( |
+| 22 | laba_8 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_8/laba_8.cpp) | Блок-схемы пока нет( |
 | 23 | laba_10 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_10/laba_10.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_10/laba_10.png) |
