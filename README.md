@@ -62,10 +62,19 @@
 | 14 | bubble_sort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/bubblesort.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/bubblesort.png) |
 | 15 | insert_sort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/ins_sort.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/ins_sort.png) |
 | 16 | selection_sort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/selection_sort.cpp) | [Блок-схема ](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/selection_sort.png) |
-| 17 | laba_4 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_4/laba_4.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_4/laba_4.png) |
-| 18 | laba_5 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_5/laba_5.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_5/laba_5.png) |
-| 19 | laba_6 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_6/laba_6.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_6/laba_6.png) |
-| 20 | laba_7_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_1.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_1.png) |
-| 21 | laba_7_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_2.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_2.png) |
-| 22 | laba_8 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_8/laba_8.cpp) | Блок-схемы пока нет( |
-| 23 | laba_10 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_10/laba_10.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_10/laba_10.png) |
+| 17 | fibonachi | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/fibonachi/fibonachi.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/fibonachi/fibonachi.png) |
+| 18 | hanoi | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hanoi/hanoi.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hanoi/hanoi.png) |
+| 19 | eightsqueens | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/eightsqueens/eigntsqueens.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/eightsqueens/eightsqueens.png) |
+| 20 | laba_4 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_4/laba_4.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_4/laba_4.png) |
+| 21 | laba_5 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_5/laba_5.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_5/laba_5.png) |
+| 22 | laba_6 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_6/laba_6.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_6/laba_6.png) |
+| 23 | laba_7_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_1.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_1.png) |
+| 24 | laba_7_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_2.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_7/laba_7_2.png) |
+| 25 | laba_8 | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_8/laba_8.cpp) | Блок-схемы пока нет( |
+| 26 | laba_9 | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_9/laba_9.cpp) | Блок-схемы пока нет( |
+| 27 | laba_10 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_10/laba_10.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_10/laba_10.png) |
+| 28 | laba_9 | 🔴 | Код пока не готов( | Блок-схемы пока нет( |
+| 29 | laba_11_1 | 🔴 | Код пока не готов( | Блок-схемы пока нет( |
+| 30 | laba_11_2 | 🔴 | Код пока не готов( | Блок-схемы пока нет( |
+| 31 | laba_11_3 | 🔴 | Код пока не готов( | Блок-схемы пока нет( |
+| 32 | laba_11_4 | 🔴 | Код пока не готов( | Блок-схемы пока нет( |
