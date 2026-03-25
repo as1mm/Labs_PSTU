@@ -1,3 +1,4 @@
+// односвязный список
 #include <iostream>
 #include <clocale>
 
