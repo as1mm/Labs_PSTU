@@ -65,7 +65,7 @@
 | 16 | selection_sort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/selection_sort.cpp) | [Блок-схема ](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Sort/selection_sort.png) |
 | 17 | fibonachi | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/fibonachi/fibonachi.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/fibonachi/fibonachi.png) |
 | 18 | hanoi | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hanoi/hanoi.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hanoi/hanoi.png) |
-| 19 | eightsqueens | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/eightsqueens/eigntsqueens.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/eightsqueens/eightsqueens.png) |
+| 19 | eightsqueens | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/eightsqueens/eightsqueens.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/eightsqueens/eightsqueens.png) |
 | 20 | laba_4 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_4/laba_4.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_4/laba_4.png) |
 | 21 | laba_5 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_5/laba_5.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_5/laba_5.png) |
 | 22 | laba_6 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_6/laba_6.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_6/laba_6.png) |
