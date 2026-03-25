@@ -1,3 +1,4 @@
+// очередь
 #include <iostream>
 
 struct Node
