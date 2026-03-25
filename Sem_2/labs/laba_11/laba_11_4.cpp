@@ -1,3 +1,4 @@
+// стэк
 #include <iostream>
 
 struct Node
