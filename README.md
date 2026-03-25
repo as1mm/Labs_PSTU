@@ -1,4 +1,5 @@
 Анисимов Владимир ИВТ-25-1Б
+>Все лабы 3 вариант
 # Лабораторные работы по Информатике и профильным дисциплинам
 
 ## 1 семестр
@@ -76,4 +77,4 @@
 | 28 | laba_11_1 | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_11/laba_11_1.cpp) | Блок-схемы пока нет( |
 | 29 | laba_11_2 | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_11/laba_11_2.cpp) | Блок-схемы пока нет( |
 | 30 | laba_11_3 | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_11/laba_11_3.cpp) | Блок-схемы пока нет( |
-| 31 | laba_11_4 | 🔴 | Код пока не готов( | Блок-схемы пока нет( |
+| 31 | laba_11_4 | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_11/laba_11_4.cpp) | Блок-схемы пока нет( |
