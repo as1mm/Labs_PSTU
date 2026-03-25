@@ -1,3 +1,4 @@
+// двусвязный список
 #include <iostream>
 
 struct Node
