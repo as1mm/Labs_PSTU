@@ -78,3 +78,6 @@
 | 29 | laba_11_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_11/laba_11_2.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_11/laba_11_2.png) |
 | 30 | laba_11_3 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_11/laba_11_3.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_11/laba_11_3.png) |
 | 31 | laba_11_4 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_11/laba_11_4.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/labs/laba_11/laba_11_4.png) |
+| 32 | BucketSort | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/bucket_sort.cpp) | Блок-схемы пока нет |
+| 33 | CountingSort | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/counting_sort.cpp) | Блок-схемы пока нет |
+| 34 | MergeSort | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/megre_sort.cpp) | Блок-схемы пока нет |
