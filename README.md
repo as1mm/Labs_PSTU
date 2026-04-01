@@ -81,3 +81,7 @@
 | 32 | BucketSort | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/bucket_sort.cpp) | Блок-схемы пока нет |
 | 33 | CountingSort | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/counting_sort.cpp) | Блок-схемы пока нет |
 | 34 | MergeSort | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/megre_sort.cpp) | Блок-схемы пока нет |
+| 35 | HoareSort | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_hoare.cpp) | Блок-схемы пока нет |
+| 36 | LomutoSort | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_lomuto.cpp) | Блок-схемы пока нет |
+| 37 | ShellSort | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_shell.cpp) | Блок-схемы пока нет |
+
