@@ -83,5 +83,5 @@
 | 34 | MergeSort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/megre_sort.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/merge_sort.png) |
 | 35 | HoareSort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_hoare.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_hoare.png) |
 | 36 | LomutoSort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_lomuto.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_lomuto.png) |
-| 37 | ShellSort | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_shell.cpp) | Блок-схемы пока нет |
+| 37 | ShellSort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_shell.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_shell.png) |
 
