@@ -84,4 +84,9 @@
 | 35 | HoareSort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_hoare.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_hoare.png) |
 | 36 | LomutoSort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_lomuto.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_lomuto.png) |
 | 37 | ShellSort | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_shell.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/complex%20sorting/quick_sort_shell.png) |
-
+| 38 | binary_search | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/binary_search.cpp) | Блок-схемы пока нет |
+| 39 | boyer_moore_search | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/boyer_moore_search.cpp) | Блок-схемы пока нет |
+| 40 | interpolation_search | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/interpolation_search.cpp) | Блок-схемы пока нет |
+| 41 | kmp_search | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/kmp_search.cpp) | Блок-схемы пока нет |
+| 42 | linear_search | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/linear_search.cpp) | Блок-схемы пока нет |
+| 43 | substr_search | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/substr_search.cpp) | Блок-схемы пока нет |
