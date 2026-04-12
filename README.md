@@ -87,6 +87,6 @@
 | 38 | binary_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/binary_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/binary_search.png) |
 | 39 | boyer_moore_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/boyer_moore_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/boyer_moore_search.png) |
 | 40 | interpolation_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/interpolation_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/interpolation_search.png) |
-| 41 | kmp_search | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/kmp_search.cpp) | Блок-схемы пока нет |
+| 41 | kmp_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/kmp_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/kmp_search.png) |
 | 42 | linear_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/linear_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/linear_search.png) |
 | 43 | substr_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/substr_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/substr_search.png) |
