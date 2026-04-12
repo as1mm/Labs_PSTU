@@ -89,4 +89,4 @@
 | 40 | interpolation_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/interpolation_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/interpolation_search.png) |
 | 41 | kmp_search | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/kmp_search.cpp) | Блок-схемы пока нет |
 | 42 | linear_search | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/linear_search.cpp) | Блок-схемы пока нет |
-| 43 | substr_search | 🟡 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/substr_search.cpp) | Блок-схемы пока нет |
+| 43 | substr_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/substr_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/substr_search.png) |
