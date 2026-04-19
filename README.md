@@ -90,3 +90,4 @@
 | 41 | kmp_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/kmp_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/kmp_search.png) |
 | 42 | linear_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/linear_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/linear_search.png) |
 | 43 | substr_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/substr_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/substr_search.png) |
+| 44 | Hash | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hash/hash.cpp) | [Блок-схема] (https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hash/hash.png) |
