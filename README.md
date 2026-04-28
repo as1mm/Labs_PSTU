@@ -5,7 +5,7 @@
 ## 1 семестр
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | 1 | 1_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/1_1/1_1.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/1_1/1_1.png) |
 | 2 | 1_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/1_2/1_2.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/1_2/1_2.png) |
 | 3 | 1_3 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/1_3/1_3.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_1/1_3/1_3.png) |
@@ -46,7 +46,7 @@
 ## 2 семестр
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на схему |
-| --- | --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: | :---: |
 | 1 | 3_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_1/3_1.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_1/3_1.png) |
 | 2 | 3_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_2/3_2.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_2/3_2.png) |
 | 3 | 3_3 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_3/3_3.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/arr/3_3/3_3.png) |
@@ -95,7 +95,7 @@
 ## Классы
 
 | п/п | Наименование | Статус | Ссылка на исходный код |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | 1 | class_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_1.cpp) |
 | 2 | class_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_2.cpp) |
 | 3 | class_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_3.cpp) |
