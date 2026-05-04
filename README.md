@@ -103,3 +103,6 @@
 | 5 | class_5 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_5.cpp) |
 | 6 | class_6 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_6.cpp) |
 | 7 | class_7 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_7.cpp) |
+| 8 | class_8 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_8.cpp) |
+| 9 | class_9 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_9.cpp) |
+| 10 | class_10 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_10.cpp) |
