@@ -94,7 +94,7 @@
 
 ## Классы
 
-| п/п | Наименование | Статус | Ссылка на исходный код | UML |
+| п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на UML |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | class_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_1.cpp) | UML |
 | 2 | class_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_2.cpp) | UML |
@@ -112,6 +112,6 @@
 
 ## Графы, деревья
 
-| п/п | Наименование | Статус | Ссылка на папку | UML |
+| п/п | Наименование | Статус | Ссылка на папку | Ссылка на UML |
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Бинарное дерево | 🟢 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | UML |
