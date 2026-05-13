@@ -109,3 +109,9 @@
 | 11 | class_11 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_11.cpp) |
 | 12 | class_12 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_12.cpp) |
 | 13 | class_13 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_13.cpp) |
+
+## Графы, деревья
+
+| п/п | Наименование | Статус | Ссылка на папку |
+| :---: | :---: | :---: | :---: |
+| 1 | Бинарное дерево | 🟢 | Ссылка |
