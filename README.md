@@ -96,9 +96,9 @@
 
 | п/п | Наименование | Статус | Ссылка на исходный код | Ссылка на UML |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | class_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_1.cpp) | UML |
-| 2 | class_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_2.cpp) | UML |
-| 3 | class_3 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_3.cpp) | UML |
+| 1 | class_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_1.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_1.png) |
+| 2 | class_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_2.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_2.png) |
+| 3 | class_3 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_3.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_3.png) |
 | 4 | class_4 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_4.cpp) | UML |
 | 5 | class_5 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_5.cpp) | UML |
 | 6 | class_6 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_6.cpp) | UML |
