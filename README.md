@@ -99,16 +99,16 @@
 | 1 | class_1 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_1.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_1.png) |
 | 2 | class_2 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_2.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_2.png) |
 | 3 | class_3 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_3.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_3.png) |
-| 4 | class_4 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_4.cpp) | UML |
-| 5 | class_5 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_5.cpp) | UML |
-| 6 | class_6 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_6.cpp) | UML |
-| 7 | class_7 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_7.cpp) | UML |
-| 8 | class_8 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_8.cpp) | UML |
-| 9 | class_9 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_9.cpp) | UML |
-| 10 | class_10 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_10.cpp) | UML |
-| 11 | class_11 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_11.cpp) | UML |
-| 12 | class_12 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_12.cpp) | UML |
-| 13 | class_13 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_13.cpp) | UML |
+| 4 | class_4 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_4.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_4.png) |
+| 5 | class_5 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_5.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_5.png) |
+| 6 | class_6 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_6.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_6.png) |
+| 7 | class_7 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_7.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_7.png) |
+| 8 | class_8 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_8.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_8.png) |
+| 9 | class_9 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_9.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_9.png) |
+| 10 | class_10 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_10.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_10.png) |
+| 11 | class_11 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_11.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_11.png) |
+| 12 | class_12 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_12.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_12.png) |
+| 13 | class_13 | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_13.cpp) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/class/class_13.png) |
 
 ## Графы, деревья
 
