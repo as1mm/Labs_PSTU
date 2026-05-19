@@ -116,4 +116,4 @@
 | :---: | :---: | :---: | :---: | :---: |
 | 1 | Бинарное дерево | 🟡 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | UML |
 | 2 | Графы | 🟡 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | UML |
-| 3 | Коммивояжер | 🔴 | Ссылка | UML |
+| 3 | Коммивояжер | 🟡 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | UML |
