@@ -90,7 +90,9 @@
 | 41 | kmp_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/kmp_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/kmp_search.png) |
 | 42 | linear_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/linear_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/linear_search.png) |
 | 43 | substr_search | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/substr_search.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/search/substr_search.png) |
-| 44 | Hash | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hash/hash.cpp) | [Блок-схема](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hash/hash.png) |
+| 44 | Hash | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hash/hash.cpp) | Блок-схема не нужна |
+| 44 | natural_sorting | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hash/hash.cpp) | Блок-схема не нужна |
+| 44 | polyphase_sorting | 🟢 | [Код](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/hash/hash.cpp) | Блок-схема не нужна |
 
 ## Классы
 
@@ -114,6 +116,6 @@
 
 | п/п | Наименование | Статус | Ссылка на папку | Ссылка на UML |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | Бинарное дерево | 🟡 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | UML |
-| 2 | Графы | 🟡 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | UML |
-| 3 | Коммивояжер | 🔴 | Ссылка | UML |
+| 1 | Бинарное дерево | 🟢 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Graphs%20and%20BinaryTree/BinaryTreeUML.png) |
+| 2 | Графы | 🟢 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Graphs%20and%20BinaryTree/GraphUML.png) |
+| 3 | Коммивояжер | 🟢 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Graphs%20and%20BinaryTree/TSPUml.png) |
