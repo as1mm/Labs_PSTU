@@ -114,6 +114,6 @@
 
 | п/п | Наименование | Статус | Ссылка на папку | Ссылка на UML |
 | :---: | :---: | :---: | :---: | :---: |
-| 1 | Бинарное дерево | 🟡 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | UML |
-| 2 | Графы | 🟡 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | UML |
-| 3 | Коммивояжер | 🟡 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | UML |
+| 1 | Бинарное дерево | 🟢 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Graphs%20and%20BinaryTree/BinaryTreeUML.png) |
+| 2 | Графы | 🟢 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Graphs%20and%20BinaryTree/GraphUML.png) |
+| 3 | Коммивояжер | 🟢 | [Ссылка](https://github.com/as1mm/Labs_PSTU/tree/main/Sem_2/Graphs%20and%20BinaryTree) | [UML](https://github.com/as1mm/Labs_PSTU/blob/main/Sem_2/Graphs%20and%20BinaryTree/TSPUml.png) |
